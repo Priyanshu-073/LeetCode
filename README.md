@@ -18,6 +18,7 @@ My Solutions
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0009-palindrome-number) |
+| [2571-find-the-pivot-integer](https://github.com/Priyanshu-073/LeetCode/tree/master/2571-find-the-pivot-integer) |
 ## String
 |  |
 | ------- |
@@ -30,4 +31,5 @@ My Solutions
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshu-073/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [2571-find-the-pivot-integer](https://github.com/Priyanshu-073/LeetCode/tree/master/2571-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
