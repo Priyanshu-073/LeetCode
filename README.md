@@ -7,6 +7,7 @@ My Solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Priyanshu-073/LeetCode/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/Priyanshu-073/LeetCode/tree/master/0031-next-permutation) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshu-073/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2102-find-the-middle-index-in-array](https://github.com/Priyanshu-073/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Priyanshu-073/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
@@ -37,4 +38,8 @@ My Solutions
 | [2102-find-the-middle-index-in-array](https://github.com/Priyanshu-073/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2571-find-the-pivot-integer](https://github.com/Priyanshu-073/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Priyanshu-073/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Priyanshu-073/LeetCode/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
