@@ -8,6 +8,7 @@ My Solutions
 | ------- |
 | [0001-two-sum](https://github.com/Priyanshu-073/LeetCode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Priyanshu-073/LeetCode/tree/master/0031-next-permutation) |
+| [0268-missing-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Priyanshu-073/LeetCode/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshu-073/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Priyanshu-073/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -19,11 +20,13 @@ My Solutions
 | ------- |
 | [0001-two-sum](https://github.com/Priyanshu-073/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshu-073/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshu-073/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0268-missing-number) |
 | [2571-find-the-pivot-integer](https://github.com/Priyanshu-073/LeetCode/tree/master/2571-find-the-pivot-integer) |
 ## String
 |  |
@@ -54,4 +57,16 @@ My Solutions
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Priyanshu-073/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
