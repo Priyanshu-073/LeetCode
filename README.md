@@ -10,6 +10,7 @@ My Solutions
 | [0031-next-permutation](https://github.com/Priyanshu-073/LeetCode/tree/master/0031-next-permutation) |
 | [0268-missing-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Priyanshu-073/LeetCode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Priyanshu-073/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshu-073/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Priyanshu-073/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Priyanshu-073/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
