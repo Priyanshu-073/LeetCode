@@ -9,6 +9,7 @@ My Solutions
 | [0001-two-sum](https://github.com/Priyanshu-073/LeetCode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Priyanshu-073/LeetCode/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyanshu-073/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Priyanshu-073/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Priyanshu-073/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Priyanshu-073/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -22,6 +23,7 @@ My Solutions
 | ------- |
 | [0001-two-sum](https://github.com/Priyanshu-073/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshu-073/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Priyanshu-073/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshu-073/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Math
@@ -72,5 +74,14 @@ My Solutions
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Priyanshu-073/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Priyanshu-073/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Priyanshu-073/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
