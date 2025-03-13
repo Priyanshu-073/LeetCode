@@ -30,6 +30,7 @@ My Solutions
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/Priyanshu-073/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0268-missing-number) |
 | [2571-find-the-pivot-integer](https://github.com/Priyanshu-073/LeetCode/tree/master/2571-find-the-pivot-integer) |
 ## String
@@ -70,6 +71,7 @@ My Solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Priyanshu-073/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -84,4 +86,8 @@ My Solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Priyanshu-073/LeetCode/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Priyanshu-073/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
