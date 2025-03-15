@@ -17,6 +17,7 @@ My Solutions
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Priyanshu-073/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Priyanshu-073/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2102-find-the-middle-index-in-array](https://github.com/Priyanshu-073/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
+| [2690-house-robber-iv](https://github.com/Priyanshu-073/LeetCode/tree/master/2690-house-robber-iv) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Priyanshu-073/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Hash Table
 |  |
@@ -68,6 +69,7 @@ My Solutions
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyanshu-073/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0268-missing-number) |
+| [2690-house-robber-iv](https://github.com/Priyanshu-073/LeetCode/tree/master/2690-house-robber-iv) |
 ## Bit Manipulation
 |  |
 | ------- |
