@@ -34,6 +34,7 @@ My Solutions
 | [0009-palindrome-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Priyanshu-073/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0268-missing-number) |
+| [1610-xor-operation-in-an-array](https://github.com/Priyanshu-073/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [2571-find-the-pivot-integer](https://github.com/Priyanshu-073/LeetCode/tree/master/2571-find-the-pivot-integer) |
 ## String
 |  |
@@ -77,6 +78,7 @@ My Solutions
 | [0136-single-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Priyanshu-073/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0268-missing-number) |
+| [1610-xor-operation-in-an-array](https://github.com/Priyanshu-073/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Priyanshu-073/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Sorting
 |  |
