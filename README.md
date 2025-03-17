@@ -18,6 +18,7 @@ My Solutions
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Priyanshu-073/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Priyanshu-073/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2102-find-the-middle-index-in-array](https://github.com/Priyanshu-073/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Priyanshu-073/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2690-house-robber-iv](https://github.com/Priyanshu-073/LeetCode/tree/master/2690-house-robber-iv) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Priyanshu-073/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Hash Table
@@ -28,6 +29,7 @@ My Solutions
 | [0169-majority-element](https://github.com/Priyanshu-073/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshu-073/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Priyanshu-073/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Math
 |  |
 | ------- |
@@ -79,6 +81,7 @@ My Solutions
 | [0231-power-of-two](https://github.com/Priyanshu-073/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0268-missing-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Priyanshu-073/LeetCode/tree/master/1610-xor-operation-in-an-array) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Priyanshu-073/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Priyanshu-073/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Sorting
 |  |
@@ -93,6 +96,7 @@ My Solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Priyanshu-073/LeetCode/tree/master/0169-majority-element) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Priyanshu-073/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Recursion
 |  |
 | ------- |
