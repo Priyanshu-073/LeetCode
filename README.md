@@ -8,6 +8,7 @@ My Solutions
 | ------- |
 | [0001-two-sum](https://github.com/Priyanshu-073/LeetCode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Priyanshu-073/LeetCode/tree/master/0031-next-permutation) |
+| [0078-subsets](https://github.com/Priyanshu-073/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyanshu-073/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Priyanshu-073/LeetCode/tree/master/0169-majority-element) |
@@ -77,6 +78,7 @@ My Solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Priyanshu-073/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Priyanshu-073/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Priyanshu-073/LeetCode/tree/master/0231-power-of-two) |
@@ -103,4 +105,8 @@ My Solutions
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Priyanshu-073/LeetCode/tree/master/0231-power-of-two) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Priyanshu-073/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
