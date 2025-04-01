@@ -16,6 +16,7 @@ My Solutions
 | [0283-move-zeroes](https://github.com/Priyanshu-073/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Priyanshu-073/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshu-073/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/Priyanshu-073/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Priyanshu-073/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Priyanshu-073/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2102-find-the-middle-index-in-array](https://github.com/Priyanshu-073/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
@@ -47,11 +48,13 @@ My Solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshu-073/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/Priyanshu-073/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Priyanshu-073/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshu-073/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/Priyanshu-073/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2102-find-the-middle-index-in-array](https://github.com/Priyanshu-073/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2571-find-the-pivot-integer](https://github.com/Priyanshu-073/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Priyanshu-073/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
@@ -77,6 +80,7 @@ My Solutions
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyanshu-073/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0268-missing-number) |
+| [1046-max-consecutive-ones-iii](https://github.com/Priyanshu-073/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2690-house-robber-iv](https://github.com/Priyanshu-073/LeetCode/tree/master/2690-house-robber-iv) |
 ## Bit Manipulation
 |  |
