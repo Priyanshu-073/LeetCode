@@ -39,6 +39,7 @@ My Solutions
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/Priyanshu-073/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Priyanshu-073/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0268-missing-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Priyanshu-073/LeetCode/tree/master/1610-xor-operation-in-an-array) |
@@ -47,6 +48,7 @@ My Solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshu-073/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0067-add-binary](https://github.com/Priyanshu-073/LeetCode/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -90,6 +92,7 @@ My Solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Priyanshu-073/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Priyanshu-073/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Priyanshu-073/LeetCode/tree/master/0191-number-of-1-bits) |
@@ -148,4 +151,8 @@ My Solutions
 |  |
 | ------- |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Priyanshu-073/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Priyanshu-073/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
