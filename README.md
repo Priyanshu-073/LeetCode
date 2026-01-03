@@ -49,6 +49,7 @@ My Solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshu-073/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/Priyanshu-073/LeetCode/tree/master/0067-add-binary) |
+| [0087-scramble-string](https://github.com/Priyanshu-073/LeetCode/tree/master/0087-scramble-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -150,6 +151,7 @@ My Solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0087-scramble-string](https://github.com/Priyanshu-073/LeetCode/tree/master/0087-scramble-string) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Priyanshu-073/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 ## Simulation
 |  |
