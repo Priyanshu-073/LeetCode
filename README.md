@@ -131,6 +131,7 @@ My Solutions
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Priyanshu-073/LeetCode/tree/master/0078-subsets) |
+| [0113-path-sum-ii](https://github.com/Priyanshu-073/LeetCode/tree/master/0113-path-sum-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -143,6 +144,7 @@ My Solutions
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Priyanshu-073/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0113-path-sum-ii](https://github.com/Priyanshu-073/LeetCode/tree/master/0113-path-sum-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -151,6 +153,7 @@ My Solutions
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Priyanshu-073/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0113-path-sum-ii](https://github.com/Priyanshu-073/LeetCode/tree/master/0113-path-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -160,4 +163,8 @@ My Solutions
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Priyanshu-073/LeetCode/tree/master/0067-add-binary) |
+## Depth-First Search
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Priyanshu-073/LeetCode/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
