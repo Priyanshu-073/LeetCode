@@ -80,6 +80,7 @@ My Solutions
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Priyanshu-073/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Priyanshu-073/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Priyanshu-073/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
@@ -136,6 +137,7 @@ My Solutions
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Priyanshu-073/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Priyanshu-073/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0203-remove-linked-list-elements](https://github.com/Priyanshu-073/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Priyanshu-073/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Priyanshu-073/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -145,6 +147,7 @@ My Solutions
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Priyanshu-073/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0113-path-sum-ii](https://github.com/Priyanshu-073/LeetCode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Priyanshu-073/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -154,6 +157,7 @@ My Solutions
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Priyanshu-073/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0113-path-sum-ii](https://github.com/Priyanshu-073/LeetCode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Priyanshu-073/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -167,4 +171,5 @@ My Solutions
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Priyanshu-073/LeetCode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Priyanshu-073/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
