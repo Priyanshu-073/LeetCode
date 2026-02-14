@@ -53,6 +53,7 @@ My Solutions
 | [0012-integer-to-roman](https://github.com/Priyanshu-073/LeetCode/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Priyanshu-073/LeetCode/tree/master/0067-add-binary) |
 | [0087-scramble-string](https://github.com/Priyanshu-073/LeetCode/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/Priyanshu-073/LeetCode/tree/master/0115-distinct-subsequences) |
 ## Sliding Window
 |  |
 | ------- |
@@ -162,6 +163,7 @@ My Solutions
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/Priyanshu-073/LeetCode/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/Priyanshu-073/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Priyanshu-073/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 ## Simulation
 |  |
