@@ -46,6 +46,7 @@ My Solutions
 | [0012-integer-to-roman](https://github.com/Priyanshu-073/LeetCode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Priyanshu-073/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Priyanshu-073/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Priyanshu-073/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Priyanshu-073/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0268-missing-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Priyanshu-073/LeetCode/tree/master/1610-xor-operation-in-an-array) |
@@ -176,6 +177,7 @@ My Solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Priyanshu-073/LeetCode/tree/master/0070-climbing-stairs) |
 | [0087-scramble-string](https://github.com/Priyanshu-073/LeetCode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Priyanshu-073/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Priyanshu-073/LeetCode/tree/master/0118-pascals-triangle) |
@@ -192,4 +194,8 @@ My Solutions
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Priyanshu-073/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Priyanshu-073/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Priyanshu-073/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Priyanshu-073/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
