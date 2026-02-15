@@ -13,6 +13,7 @@ My Solutions
 | [0068-text-justification](https://github.com/Priyanshu-073/LeetCode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Priyanshu-073/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Priyanshu-073/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Priyanshu-073/LeetCode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/Priyanshu-073/LeetCode/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Priyanshu-073/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0136-single-number) |
@@ -70,6 +71,7 @@ My Solutions
 | [0068-text-justification](https://github.com/Priyanshu-073/LeetCode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Priyanshu-073/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Priyanshu-073/LeetCode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Priyanshu-073/LeetCode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Priyanshu-073/LeetCode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Priyanshu-073/LeetCode/tree/master/0115-distinct-subsequences) |
 ## Sliding Window
@@ -154,6 +156,7 @@ My Solutions
 | ------- |
 | [0022-generate-parentheses](https://github.com/Priyanshu-073/LeetCode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Priyanshu-073/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Priyanshu-073/LeetCode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Priyanshu-073/LeetCode/tree/master/0113-path-sum-ii) |
 ## Linked List
 |  |
@@ -207,6 +210,7 @@ My Solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Priyanshu-073/LeetCode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Priyanshu-073/LeetCode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Priyanshu-073/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Priyanshu-073/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -219,4 +223,5 @@ My Solutions
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Priyanshu-073/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Priyanshu-073/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
