@@ -8,6 +8,7 @@ My Solutions
 | ------- |
 | [0001-two-sum](https://github.com/Priyanshu-073/LeetCode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Priyanshu-073/LeetCode/tree/master/0031-next-permutation) |
+| [0049-group-anagrams](https://github.com/Priyanshu-073/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Priyanshu-073/LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Priyanshu-073/LeetCode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Priyanshu-073/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -35,6 +36,7 @@ My Solutions
 | [0001-two-sum](https://github.com/Priyanshu-073/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshu-073/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Priyanshu-073/LeetCode/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/Priyanshu-073/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Priyanshu-073/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Priyanshu-073/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0268-missing-number) |
@@ -62,6 +64,7 @@ My Solutions
 | [0022-generate-parentheses](https://github.com/Priyanshu-073/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Priyanshu-073/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Priyanshu-073/LeetCode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Priyanshu-073/LeetCode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Priyanshu-073/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Priyanshu-073/LeetCode/tree/master/0068-text-justification) |
@@ -126,6 +129,7 @@ My Solutions
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Priyanshu-073/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Priyanshu-073/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
