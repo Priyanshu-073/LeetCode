@@ -15,6 +15,7 @@ My Solutions
 | [0078-subsets](https://github.com/Priyanshu-073/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Priyanshu-073/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Priyanshu-073/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Priyanshu-073/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Priyanshu-073/LeetCode/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Priyanshu-073/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0136-single-number) |
@@ -106,6 +107,7 @@ My Solutions
 | ------- |
 | [0071-simplify-path](https://github.com/Priyanshu-073/LeetCode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Priyanshu-073/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Priyanshu-073/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Priyanshu-073/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Priyanshu-073/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Priyanshu-073/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -113,6 +115,7 @@ My Solutions
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Priyanshu-073/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Priyanshu-073/LeetCode/tree/master/0085-maximal-rectangle) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Priyanshu-073/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Binary Search
 |  |
@@ -203,6 +206,7 @@ My Solutions
 | [0022-generate-parentheses](https://github.com/Priyanshu-073/LeetCode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Priyanshu-073/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Priyanshu-073/LeetCode/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Priyanshu-073/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Priyanshu-073/LeetCode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Priyanshu-073/LeetCode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Priyanshu-073/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -231,4 +235,5 @@ My Solutions
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Priyanshu-073/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Priyanshu-073/LeetCode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Priyanshu-073/LeetCode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
