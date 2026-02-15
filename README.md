@@ -46,6 +46,7 @@ My Solutions
 | ------- |
 | [0009-palindrome-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Priyanshu-073/LeetCode/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/Priyanshu-073/LeetCode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Priyanshu-073/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Priyanshu-073/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Priyanshu-073/LeetCode/tree/master/0070-climbing-stairs) |
@@ -60,6 +61,7 @@ My Solutions
 | [0012-integer-to-roman](https://github.com/Priyanshu-073/LeetCode/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/Priyanshu-073/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Priyanshu-073/LeetCode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Priyanshu-073/LeetCode/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Priyanshu-073/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Priyanshu-073/LeetCode/tree/master/0068-text-justification) |
@@ -195,6 +197,7 @@ My Solutions
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Priyanshu-073/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Priyanshu-073/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Priyanshu-073/LeetCode/tree/master/0068-text-justification) |
 ## Depth-First Search
