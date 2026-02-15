@@ -10,6 +10,7 @@ My Solutions
 | [0031-next-permutation](https://github.com/Priyanshu-073/LeetCode/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/Priyanshu-073/LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Priyanshu-073/LeetCode/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/Priyanshu-073/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Priyanshu-073/LeetCode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Priyanshu-073/LeetCode/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Priyanshu-073/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -34,6 +35,7 @@ My Solutions
 | [0001-two-sum](https://github.com/Priyanshu-073/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshu-073/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Priyanshu-073/LeetCode/tree/master/0012-integer-to-roman) |
+| [0073-set-matrix-zeroes](https://github.com/Priyanshu-073/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Priyanshu-073/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshu-073/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -202,4 +204,8 @@ My Solutions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Priyanshu-073/LeetCode/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Priyanshu-073/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
