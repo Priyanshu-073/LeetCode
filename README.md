@@ -59,6 +59,7 @@ My Solutions
 | [0065-valid-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Priyanshu-073/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Priyanshu-073/LeetCode/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/Priyanshu-073/LeetCode/tree/master/0071-simplify-path) |
 | [0087-scramble-string](https://github.com/Priyanshu-073/LeetCode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Priyanshu-073/LeetCode/tree/master/0115-distinct-subsequences) |
 ## Sliding Window
@@ -88,6 +89,7 @@ My Solutions
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Priyanshu-073/LeetCode/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Priyanshu-073/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Priyanshu-073/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Priyanshu-073/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
