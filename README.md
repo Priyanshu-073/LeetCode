@@ -8,6 +8,7 @@ My Solutions
 | ------- |
 | [0001-two-sum](https://github.com/Priyanshu-073/LeetCode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Priyanshu-073/LeetCode/tree/master/0031-next-permutation) |
+| [0066-plus-one](https://github.com/Priyanshu-073/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Priyanshu-073/LeetCode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Priyanshu-073/LeetCode/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Priyanshu-073/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -42,6 +43,7 @@ My Solutions
 | ------- |
 | [0009-palindrome-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Priyanshu-073/LeetCode/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/Priyanshu-073/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Priyanshu-073/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Priyanshu-073/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0268-missing-number) |
