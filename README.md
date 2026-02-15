@@ -52,6 +52,7 @@ My Solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshu-073/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Priyanshu-073/LeetCode/tree/master/0012-integer-to-roman) |
+| [0065-valid-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Priyanshu-073/LeetCode/tree/master/0067-add-binary) |
 | [0087-scramble-string](https://github.com/Priyanshu-073/LeetCode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Priyanshu-073/LeetCode/tree/master/0115-distinct-subsequences) |
