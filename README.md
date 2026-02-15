@@ -9,6 +9,7 @@ My Solutions
 | [0001-two-sum](https://github.com/Priyanshu-073/LeetCode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Priyanshu-073/LeetCode/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/Priyanshu-073/LeetCode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Priyanshu-073/LeetCode/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/Priyanshu-073/LeetCode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Priyanshu-073/LeetCode/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Priyanshu-073/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -56,6 +57,7 @@ My Solutions
 | [0012-integer-to-roman](https://github.com/Priyanshu-073/LeetCode/tree/master/0012-integer-to-roman) |
 | [0065-valid-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Priyanshu-073/LeetCode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Priyanshu-073/LeetCode/tree/master/0068-text-justification) |
 | [0087-scramble-string](https://github.com/Priyanshu-073/LeetCode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Priyanshu-073/LeetCode/tree/master/0115-distinct-subsequences) |
 ## Sliding Window
@@ -182,6 +184,7 @@ My Solutions
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Priyanshu-073/LeetCode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Priyanshu-073/LeetCode/tree/master/0068-text-justification) |
 ## Depth-First Search
 |  |
 | ------- |
