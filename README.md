@@ -168,6 +168,7 @@ My Solutions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Priyanshu-073/LeetCode/tree/master/0022-generate-parentheses) |
+| [0052-n-queens-ii](https://github.com/Priyanshu-073/LeetCode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Priyanshu-073/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Priyanshu-073/LeetCode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Priyanshu-073/LeetCode/tree/master/0089-gray-code) |
