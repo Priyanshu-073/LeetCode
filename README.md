@@ -27,6 +27,7 @@ My Solutions
 | [0268-missing-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Priyanshu-073/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Priyanshu-073/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Priyanshu-073/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshu-073/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Priyanshu-073/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Priyanshu-073/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -46,6 +47,7 @@ My Solutions
 | [0073-set-matrix-zeroes](https://github.com/Priyanshu-073/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Priyanshu-073/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Priyanshu-073/LeetCode/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/Priyanshu-073/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshu-073/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Priyanshu-073/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Priyanshu-073/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -115,12 +117,14 @@ My Solutions
 | [0085-maximal-rectangle](https://github.com/Priyanshu-073/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Priyanshu-073/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Priyanshu-073/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Priyanshu-073/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Priyanshu-073/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Priyanshu-073/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Priyanshu-073/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/Priyanshu-073/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Priyanshu-073/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Binary Search
 |  |
