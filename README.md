@@ -29,6 +29,7 @@ My Solutions
 | [0485-max-consecutive-ones](https://github.com/Priyanshu-073/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Priyanshu-073/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanshu-073/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0735-asteroid-collision](https://github.com/Priyanshu-073/LeetCode/tree/master/0735-asteroid-collision) |
 | [0966-binary-subarrays-with-sum](https://github.com/Priyanshu-073/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Priyanshu-073/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Priyanshu-073/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -118,6 +119,7 @@ My Solutions
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Priyanshu-073/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Priyanshu-073/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Priyanshu-073/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/Priyanshu-073/LeetCode/tree/master/0735-asteroid-collision) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Priyanshu-073/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
@@ -235,6 +237,7 @@ My Solutions
 | [0043-multiply-strings](https://github.com/Priyanshu-073/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Priyanshu-073/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Priyanshu-073/LeetCode/tree/master/0068-text-justification) |
+| [0735-asteroid-collision](https://github.com/Priyanshu-073/LeetCode/tree/master/0735-asteroid-collision) |
 ## Depth-First Search
 |  |
 | ------- |
